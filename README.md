@@ -122,11 +122,7 @@ Azure Storage Account
 This lab is part of my preparation for:
 - **Microsoft Certified: Azure Data Fundamentals (DP-900)**
 
-## 📸 Screenshots
 
-(Screenshots will be added as I progress through the lab)
-
----
 
 **Author:** InterfaceMaven  
 **Date:** October 2025  
